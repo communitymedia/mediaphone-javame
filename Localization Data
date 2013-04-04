@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locales default-locale="en-US" destination="res/strings" package="ac.robinson.mediaphonejavame.localization">
+   <locale country="US" language="en">
+      <entry key="app_name" value="Com-Phone"/>
+      <entry key="title_narratives" value="Your Narratives"/>
+      <entry key="title_frame_editor" value="Edit frame"/>
+      <entry key="title_camera" value="Take a picture"/>
+      <entry key="title_audio" value="Record audio"/>
+      <entry key="title_text" value="Add text"/>
+      <entry key="title_playback" value="Playing narrative"/>
+      <entry key="title_playback_complete" value="Playback complete"/>
+      <entry key="button_new" value="New"/>
+      <entry key="button_delete" value="Delete"/>
+      <entry key="button_exit" value="Exit"/>
+      <entry key="button_back" value="Back"/>
+      <entry key="button_save" value="Save"/>
+      <entry key="button_add_frame" value="Add frame"/>
+      <entry key="button_cancel" value="Cancel"/>
+      <entry key="button_retake" value="Retake"/>
+      <entry key="button_start" value="Start"/>
+      <entry key="button_stop" value="Stop"/>
+      <entry key="button_play" value="Play"/>
+      <entry key="button_capture" value="Capture"/>
+      <entry key="button_replay" value="Replay"/>
+      <entry key="hint_loading" value="Loading..."/>
+      <entry key="hint_photo_saved" value="Photo saved"/>
+      <entry key="hint_start_recording" value="Start recording"/>
+      <entry key="hint_recording_in_progress" value="Recording"/>
+      <entry key="hint_recording_complete" value="Finished recording"/>
+      <entry key="hint_playback_in_progress" value="Playing"/>
+      <entry key="hint_playback_complete" value="Playback complete"/>
+      <entry key="hint_playback_stopped" value="Playback stopped"/>
+      <entry key="hint_audio_saved" value="Audio saved"/>
+      <entry key="error_camera_not_supported" value="Sorry, taking pictures is not supported by this phone"/>
+      <entry key="error_taking_photo" value="Sorry, there was a problem taking the picture"/>
+      <entry key="error_saving_photo" value="Sorry, there was a problem saving the photo"/>
+      <entry key="error_audio_recording_not_supported" value="Sorry, audio recording is not supported by this phone"/>
+      <entry key="error_playing_audio" value="Sorry, there was an problem playing the audio"/>
+      <entry key="error_saving_audio" value="Sorry, there was a problem saving the audio"/>
+   </locale>
+</locales>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry exported="true" kind="lib" path="lib/kxml-2.3.0.jar" sourcepath="lib/kxml-2.3.0.zip"/>
+	<classpathentry exported="true" kind="lib" path="lib/lwuit-midp-1.5.jar" sourcepath="lib/lwuit-midp-1.5.zip"/>
+	<classpathentry kind="con" path="org.elipse.mtj.JavaMEContainer/Java(TM) Platform Micro Edition SDK 3.0/DefaultCldcPhone1"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
