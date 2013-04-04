@@ -1,10 +1,15 @@
-# generated files
+# Java class files
 *.class
 
 # package files
 *.jar
 *.war
 *.ear
+
+# generated files
+.mtj.tmp/
+bin/
+deployed/
 
 # local sources
 lib/kxml-2.3.0.zip
