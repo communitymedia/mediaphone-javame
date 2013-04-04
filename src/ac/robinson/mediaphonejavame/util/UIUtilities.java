@@ -82,7 +82,7 @@ public class UIUtilities {
 
 		Dialog.setDefaultDialogPosition(BorderLayout.CENTER);
 
-		// these options are not always good; should be enabled per-device (touch/non-touch)
+		// TODO: these options are not always good; should be enabled per-device (touch/non-touch)
 		// Display defaultDisplay = Display.getInstance();
 		// defaultDisplay.setCommandBehavior(Display.COMMAND_BEHAVIOR_NATIVE); // use native buttons where possible
 		// defaultDisplay.setDefaultVirtualKeyboard(null); // because it is a UI travesty

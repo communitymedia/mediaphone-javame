@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+obfuscate_use_project=true
+proguard_options=-dontwarn com.sun.lwuit.** -dontnote -dontusemixedcaseclassnames -overloadaggressively -repackageclasses '' -allowaccessmodification -microedition
+proguard_use_specified=true
