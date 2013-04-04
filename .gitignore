@@ -1,6 +1,11 @@
+# generated files
 *.class
 
-# Package Files #
+# package files
 *.jar
 *.war
 *.ear
+
+# local sources
+lib/kxml-2.3.0.zip
+lib/lwuit-midp-1.5.zip
